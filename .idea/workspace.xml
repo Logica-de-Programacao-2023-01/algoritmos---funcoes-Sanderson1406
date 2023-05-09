@@ -49,13 +49,13 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build 8.go">
-    <configuration name="go build 4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 10.go">
+    <configuration name="go build 10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/4.go" />
+      <filePath value="$PROJECT_DIR$/10.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 10.go" />
         <item itemvalue="Go Build.go build 8.go" />
         <item itemvalue="Go Build.go build 7.go" />
         <item itemvalue="Go Build.go build 6.go" />
         <item itemvalue="Go Build.go build 5.go" />
-        <item itemvalue="Go Build.go build 4.go" />
       </list>
     </recent_temporary>
   </component>
