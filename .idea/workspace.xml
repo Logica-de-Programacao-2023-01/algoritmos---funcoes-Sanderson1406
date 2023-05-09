@@ -49,23 +49,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build 6.go">
-    <configuration name="go build 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---funcoes-Sanderson1406" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/1.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---funcoes-Sanderson1406" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/3.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 8.go">
     <configuration name="go build 4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
@@ -90,13 +74,29 @@
       <filePath value="$PROJECT_DIR$/6.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---funcoes-Sanderson1406" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/7.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---funcoes-Sanderson1406" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/8.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 8.go" />
+        <item itemvalue="Go Build.go build 7.go" />
         <item itemvalue="Go Build.go build 6.go" />
         <item itemvalue="Go Build.go build 5.go" />
         <item itemvalue="Go Build.go build 4.go" />
-        <item itemvalue="Go Build.go build 3.go" />
-        <item itemvalue="Go Build.go build 1.go" />
       </list>
     </recent_temporary>
   </component>
