@@ -4,7 +4,7 @@ import "fmt"
 
 func par(eles []int) []int {
 	newele := []int{}
-	if len(eles) == 0 {
+	if len(eles) <= 0 {
 		return []int{}
 	} else {
 		for i := 1; i < len(eles); i++ {

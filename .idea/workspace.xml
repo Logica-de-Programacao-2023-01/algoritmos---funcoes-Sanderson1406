@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28285255-ef8d-40be-bad1-8b4ee27c348a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.go" beforeDir="false" afterPath="$PROJECT_DIR$/8.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,32 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanderson.oliveira/repos/algoritmos---funcoes-Sanderson1406&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go Application",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/sande",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
   }
-}</component>
-  <component name="RunManager" selected="Go Build.go build 13.go">
-    <configuration name="go build 10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---funcoes-Sanderson1406" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/10.go" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Go Build.go build 16.go">
     <configuration name="go build 11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
@@ -82,29 +82,37 @@
       <filePath value="$PROJECT_DIR$/13.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/7.go" />
+      <filePath value="$PROJECT_DIR$/14.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 15.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/8.go" />
+      <filePath value="$PROJECT_DIR$/15.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---funcoes-Sanderson1406" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/16.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 16.go" />
+        <item itemvalue="Go Build.go build 15.go" />
+        <item itemvalue="Go Build.go build 14.go" />
         <item itemvalue="Go Build.go build 13.go" />
         <item itemvalue="Go Build.go build 11.go" />
-        <item itemvalue="Go Build.go build 10.go" />
-        <item itemvalue="Go Build.go build 8.go" />
-        <item itemvalue="Go Build.go build 7.go" />
       </list>
     </recent_temporary>
   </component>
