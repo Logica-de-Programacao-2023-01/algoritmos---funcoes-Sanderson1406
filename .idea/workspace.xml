@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28285255-ef8d-40be-bad1-8b4ee27c348a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/14.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.go" beforeDir="false" afterPath="$PROJECT_DIR$/8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.go" beforeDir="false" afterPath="$PROJECT_DIR$/15.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.go" beforeDir="false" afterPath="$PROJECT_DIR$/4.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +52,7 @@
     "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/sande",
+    "last_opened_file_path": "C:/Users/sande/GitHub/Faculdade/2023.1/algoritmos---funcoes-Sanderson1406",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",

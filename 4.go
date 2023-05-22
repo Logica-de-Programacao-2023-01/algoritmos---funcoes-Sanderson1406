@@ -11,6 +11,6 @@ func maiorvalor(num []int) int {
 }
 
 func main() {
-	num := maiorvalor([]int{2, 4, 7, 56, 55, 8})
+	num := maiorvalor([]int{2, 4, 7, 6, 5, 8})
 	fmt.Println(num)
 }
