@@ -3,16 +3,16 @@ package main
 import "fmt"
 
 func verifi(n int, eles []int) (bool, error) {
-	vdd := true
+	vdd := false
 	if len(eles) == 0 {
 		return false, fmt.Errorf("Slice vazia")
 	} else {
-		for i := 0; i < len(eles); i++ {
-			if eles[i] != n {
-				vdd = false
+		for _, s := range eles {
+			if s == n {
+				vdd = true
 				break
 			} else {
-				vdd = true
+				vdd = false
 			}
 		}
 	}

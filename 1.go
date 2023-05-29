@@ -7,7 +7,7 @@ func media(num []int) int {
 	for i := 0; i < len(num); i++ {
 		soma += num[i]
 	}
-	res := soma / 6
+	res := soma / int(len(num))
 	return res
 }
 
